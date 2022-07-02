@@ -82,8 +82,3 @@ pAequor1.compareDNA(pAequor2);
 
 //3. Test for .willLikelySurvive() method
 console.log(`P.aequor specimen #${pAequor1.specimenNum} will survive: ${pAequor1.willLikelySurvive()}`);
-
-
-
-
-
